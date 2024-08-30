@@ -1,0 +1,5 @@
+add_subdirectory(Base_1)
+add_subdirectory(Base_2)
+add_subdirectory(Base_3)
+add_subdirectory(Item_1)
+add_subdirectory(Item_3)
